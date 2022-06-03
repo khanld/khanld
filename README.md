@@ -15,7 +15,7 @@
 
 ---
 ### :pig_nose: My life is a mess
-- Start with Japanese linguistics,  interest in Finance, but learn IT
+- Start with Japanese linguistics,  interest in Finance, but learn IT.
 - Start with Software, interest in  Blockchain, but do AI
 - Start with Computer Vision, interest in  Natural Language Processing, but do Speech Language Processing
 
