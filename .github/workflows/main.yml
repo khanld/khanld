@@ -25,7 +25,7 @@ jobs:
       run: npm run build --if-present
     - name: Generate quote
       # Chạy script để gọi API lấy quote sau đó sửa file README.md
-      run: npm run index
+      run: node index.js
     - name: Update README.md
       # Push file README.md đã được thay đổi lên github
       run: |
