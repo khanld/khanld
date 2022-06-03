@@ -19,5 +19,6 @@
   "homepage": "https://github.com/khanld/khanld#readme",
   "dependencies": {
     "axios": "^0.27.2"
-  }
+  },
+  "devDependencies": {}
 }
