@@ -36,6 +36,10 @@
 
 ---
 ### :file_folder: Projects
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanld&repo=ASR-Wav2vec-Finetune&theme=dark)](https://github.com/khanld/ASR-Wav2vec-Finetune)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanld&repo=Vietnamese-ASR-Released-Model&theme=dark)](https://github.com/khanld/Vietnamese-ASR-Released-Model)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanld&repo=Dynamic-Mixing&theme=dark)](https://github.com/khanld/Dynamic-Mixing)
+
 
 ---
 ### :fire: Streak Stats
