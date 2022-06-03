@@ -43,5 +43,5 @@
 
 ---
 ### :fire: Streak Stats
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanld&theme=dark)](https://git.io/streak-stats)
-[![Khanhld's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanld&show_icons=true&theme=radical)]
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=khanld&theme=dark)
+![Khanhld's GitHub stats](https://github-readme-stats.vercel.app/api?username=khanld&show_icons=true&theme=radical)
