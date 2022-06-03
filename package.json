@@ -1,0 +1,23 @@
+{
+  "name": "khanld",
+  "version": "1.0.0",
+  "description": "<div id=\"header\" align=\"center\">   <img src=\"https://media.giphy.com/media/dWfMYHHOmHoWi2oSOm/giphy-downsized-large.gif\" width=\"200\"/>   <div id=\"badges\">   <a href=\"https://www.linkedin.com/in/khanhld257/\">     <img src=\"https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white\" alt=\"LinkedIn Badge\"/>   </a>   <a href=\"khanhld218@uef.edu.vn\">     <img src=\"https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white\" alt=\"Gmail Badge\"/>   </a> </div>   <img src=\"https://komarev.com/ghpvc/?username=khanld&style=flat-square&color=blue\" alt=\"\"/> </div>",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/khanld/khanld.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/khanld/khanld/issues"
+  },
+  "homepage": "https://github.com/khanld/khanld#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
