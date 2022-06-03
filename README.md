@@ -11,7 +11,7 @@
   <img src="https://komarev.com/ghpvc/?username=khanld&style=flat-square&color=blue" alt=""/>
 </div>
 
-### Hi there, I'm khanhld :clap:
+### Hi there, I'm khanhld :clap: :clap: :clap:
 
 ---
 ### :pig_nose: My life is a mess
