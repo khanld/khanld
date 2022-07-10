@@ -23,7 +23,7 @@
 ### :boy: About me
 - :trollface: A nerdy boiz hates dramas but struggles with dramas
 - :bowtie: Senior student majoring in Information Technology at UEF
-- :office: Currently a Speech-Language Engineer Intern at Vinbigdata Institution
+- :office: Currently a Speech-Language Engineer at Vinbigdata Institution
 
 ---
 ### :trophy: Prizes
