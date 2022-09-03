@@ -23,7 +23,7 @@
 ### :boy: About me
 - :trollface: A nerdy boiz hates dramas but struggles with dramas
 - :bowtie: Senior student majoring in Information Technology at UEF
-- :office: Currently a :cat: Meow Meow Engineer at Vinbigdata Institution
+- :office: Currently a :cat: Meow Meow Engineer at Vinbigdata Institute 
 
 ---
 ### :trophy: Prizes
