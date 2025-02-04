@@ -34,7 +34,7 @@
 - :3rd_place_medal: 3rd Prize In National Scientific Research Award For Students 2020
 - :2nd_place_medal: 2nd Prize In Viet Nam National Olympiad In Informatics 2020
 
----
+--- 
 ### :file_folder: Projects
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanld&repo=ASR-Wav2vec-Finetune&theme=dark)](https://github.com/khanld/ASR-Wav2vec-Finetune)
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=khanld&repo=chunkformer&theme=dark)](https://github.com/khanld/chunkformer)
