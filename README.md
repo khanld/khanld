@@ -1,5 +1,5 @@
 <div id="header" align="center">
-![pikachu-meow](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFienZza3Q1bTJ0emt4cGIyY3B0cXZjbGUwdWhnNDRqa3d3NmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWfMYHHOmHoWi2oSOm/giphy.gif)
+<img src="https://media3.giphy.com/media/dWfMYHHOmHoWi2oSOm/giphy.gif" width="200">
 
   <div id="badges">
   <a href="https://www.linkedin.com/in/khanhld257/">
