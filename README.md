@@ -1,5 +1,6 @@
 <div id="header" align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFienZza3Q1bTJ0emt4cGIyY3B0cXZjbGUwdWhnNDRqa3d3NmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWfMYHHOmHoWi2oSOm/giphy.gif" width="200"/>
+![pikachu-meow](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExOHFienZza3Q1bTJ0emt4cGIyY3B0cXZjbGUwdWhnNDRqa3d3NmVwbCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/dWfMYHHOmHoWi2oSOm/giphy.gif)
+
   <div id="badges">
   <a href="https://www.linkedin.com/in/khanhld257/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
