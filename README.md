@@ -23,7 +23,7 @@
 ---
 ### :boy: About me
 - :trollface: A nerdy boiz hates dramas but struggles with dramas
-- :bowtie: Senior student majoring in Information Technology at UEF
+- :bowtie: Graduated from UEF with a degree in Information Technology
 - :office: Currently a :cat: Meow Meow Engineer
 
 ---
